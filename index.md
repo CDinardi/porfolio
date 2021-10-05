@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi Machine Learning Porfolio
 
-You can use the [editor on GitHub](https://github.com/CDinardi/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Descripcion de porfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CDinardi/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Tematicas
+- Tratamiento previo de los datos y fundamentos de los algoritmos de ML
+  - [Estadísticas descriptivas de los datos, distribuciones](./Estadistica-Descriptiva.md).
+  - Visualización de las interacciones de atributos
+  - Normalización y estandarización de los datos
+  - Discretización de atributos numéricos
+  - Conversión de atributos nominales
+  - Tratamiento de “outliers” y  valores faltantes en los conjuntos de datos
+  - 
+- ALGORITMOS LINEALES
+  - Descenso de Gradiente y Regresión Lineal
+  - Regresión Logística
+  - Análisis Discriminante Lineal
+- ALGORITMOS NO LINEALES
+  - Representación del modelo CART
+  - Representación y aprendizaje con modelos CART
+  - Predicción con modelos CART
+  - Preparación previa de los datos para modelos CART
