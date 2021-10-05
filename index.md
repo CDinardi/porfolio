@@ -11,7 +11,7 @@ Descripcion de porfolio
   - Conversión de atributos nominales
   - Tratamiento de “outliers” y  valores faltantes en los conjuntos de datos
   - 
-- [ALGORITMOS LINEALES] (./Algoritmos_Lineales.md).
+- [ALGORITMOS LINEALES](./Algoritmos_Lineales.md).
   - Descenso de Gradiente y Regresión Lineal
   - Regresión Logística
   - Análisis Discriminante Lineal
