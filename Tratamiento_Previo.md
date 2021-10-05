@@ -1,4 +1,4 @@
-## Estadísticas descriptivas de los datos, distribuciones.
+## Tratamiento previo de los datos y fundamentos de los algoritmos de ML.
 
 Habilidades:
 
