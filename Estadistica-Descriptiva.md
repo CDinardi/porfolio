@@ -1,22 +1,17 @@
 ## Bienvenido a mi Machine Learning Porfolio
 
-Descripcion de porfolio
+Habilidades:
 
-### Tematicas
-- Tratamiento previo de los datos y fundamentos de los algoritmos de ML
-  - [Estadísticas descriptivas de los datos, distribuciones](./Estadistica-Descriptiva.md).
-  - Visualización de las interacciones de atributos
-  - Normalización y estandarización de los datos
-  - Discretización de atributos numéricos
-  - Conversión de atributos nominales
-  - Tratamiento de “outliers” y  valores faltantes en los conjuntos de datos
-  - 
-- ALGORITMOS LINEALES
-  - Descenso de Gradiente y Regresión Lineal
-  - Regresión Logística
-  - Análisis Discriminante Lineal
-- ALGORITMOS NO LINEALES
-  - Representación del modelo CART
-  - Representación y aprendizaje con modelos CART
-  - Predicción con modelos CART
-  - Preparación previa de los datos para modelos CART
+Comprender y discutir la importancia de conocer profundamente los conjuntos de datos y
+Aplicar las técnicas y herramientas existentes para el tratamiento de los mismos previo a su utilización en modelos de ML
+Analizar en forma aplicada los fundamentos de los algoritmos de ML.
+Discutir características de algoritmos paramétricos y no paramétricos
+Analizar el aprendizaje supervisado, no supervisado y semi-supervisado e identificar algoritmos de estas categorías y sus aplicaciones
+Discutir cómo el compromiso entre sesgo y varianza afecta en la selección de algoritmos
+Comprender los efectos del sobre y sub-ajuste de los datos en los algoritmos.
+Evaluar distintos enfoques de técnicas para prueba y validación de modelos de ML.
+Comenzar a cargar información en el Portafolios de ML del Equipo 
+
+### Ejemplos
+
+Ejercicios realizados de la tematica y su analisis.
