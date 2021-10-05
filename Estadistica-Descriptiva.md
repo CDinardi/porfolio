@@ -1,4 +1,4 @@
-## Bienvenido a mi Machine Learning Porfolio
+## Estadísticas descriptivas de los datos, distribuciones.
 
 Habilidades:
 
