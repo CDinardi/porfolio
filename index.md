@@ -1,16 +1,10 @@
 ## Bienvenido a mi Porfolio de Machine Learning 
 
-Descripcion de porfolio
 
-### Tematicas
-- [Tratamiento previo de los datos y fundamentos de los algoritmos de ML](./Tratamiento_Previo.md).
-  - Estadísticas descriptivas de los datos, distribuciones
-  - Visualización de las interacciones de atributos
-  - Normalización y estandarización de los datos
-  - Discretización de atributos numéricos
-  - Conversión de atributos nominales
-  - Tratamiento de “outliers” y  valores faltantes en los conjuntos de datos
-  - 
+### Problemas resueltos
+- [Segmentación de clientes de centro comercial](./Segmentacion_Shopping.md).
+  - El propietario del centro comercial desea comprender los grupos de clientes existentes para que el equipo de marketing pueda planificar la estrategia necesaria según el grupo de clientes objetivo.
+  
 - [ALGORITMOS LINEALES](./Algoritmos_Lineales.md).
   - Descenso de Gradiente y Regresión Lineal
   - Regresión Logística
