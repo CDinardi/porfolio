@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/11593599/143690419-de3a89f4-c50e-45a0-ab8e-4312ee57902f.png)
 
-Un problema clásico en el deep learning es el reconocimiento de 
+Un problema clásico en el deep learning es el reconocimiento de números dibujados a mano alzada.
 Para esto utilizaremos la extensión de RapidMiner llamada Deep Learning en su versión 1.1.2.
 
 Para iniciar verificamos el contenido de los [archivos](https://drive.google.com/drive/folders/13wovnAqprxlWX1ABUrXQgfkNO7qq7eKQ?usp=sharing).
