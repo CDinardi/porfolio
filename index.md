@@ -8,8 +8,5 @@
 - [Reconocimiento de números](./Reconocimiento_numeros.md).
   - A travez de un set de 60.000 digitos realizados a mano alzada se entrena una red neuronal para reconocer dichos números, y esta red es probada con un set de 10.000 dígitos.
   
-- [ALGORITMOS NO LINEALES](./Algoritmos_No_Lineales.md).
-  - Representación del modelo CART
-  - Representación y aprendizaje con modelos CART
-  - Predicción con modelos CART
-  - Preparación previa de los datos para modelos CART
+- [Eficiencia Energética](./Eficiencia_Energetica.md).
+  - 
