@@ -1,3 +1,5 @@
+[< Inicio](/index.md)
+
 # Reconocimiento de números 
 
 ![image](https://user-images.githubusercontent.com/11593599/143690419-de3a89f4-c50e-45a0-ab8e-4312ee57902f.png)
