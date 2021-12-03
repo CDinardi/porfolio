@@ -1,3 +1,5 @@
+[< Inicio](/index.md)
+
 # Eficiencia Energética
 
 El objetivo de esta práctica es hallar los coeficientes para lograr predecir a través de regresión lineal la eficiencia energética de un edificio a partir de algunos valores de su estructura tales como el Área de superficie, muros, techo, orientación, vidrios, entre otros.
