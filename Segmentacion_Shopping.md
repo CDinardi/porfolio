@@ -24,11 +24,11 @@ En primer lugar podemos ver que la columna género es de tipo texto, por lo cual
 No se encuentra datos faltantes por lo cual podemos continuar con el desarrollo del problema.
 
 Para continuar debemos definir por cuales atributos que queremos agrupar, ya el problema es para el departamento de Marketing podemos encontrar 3 grupos que pueden servir:
-       - Puntaje de gastos - Ingresos Anuales, este grupo nos permite identificar las personas que más gastan en el centro comercial agrupada por ingresos, pudiendo hacer una campaña para aquellos que más gastan y tienen ingresos anuales elevados, por lo cual pudieran estár interesados en articulos premium. O atraer la atención de aquellos compradores que tienen altos ingresos pero no gastan mucho, pudiendo existir allí una falta de articulos que llamen su interes.
+- Puntaje de gastos - Ingresos Anuales, este grupo nos permite identificar las personas que más gastan en el centro comercial agrupada por ingresos, pudiendo hacer una campaña para aquellos que más gastan y tienen ingresos anuales elevados, por lo cual pudieran estár interesados en articulos premium. O atraer la atención de aquellos compradores que tienen altos ingresos pero no gastan mucho, pudiendo existir allí una falta de articulos que llamen su interes.
 
-       - Puntaje de gastos - Edad, estos grupos nos permite por ejemplo identificar la edad de quienes más gastan para promover algún beneficio de su interes y así fomentar un crecimiento en sus compras.
+- Puntaje de gastos - Edad, estos grupos nos permite por ejemplo identificar la edad de quienes más gastan para promover algún beneficio de su interes y así fomentar un crecimiento en sus compras.
 
-       - Ingresos Anuales - Edad, con estos grupos podemosidentificar los compradores según sus ingresos y edad, pudiendo así realizar campañas de marketing para atraer a los grupos que más ganan por ejemplo brindando sorteos donde el premio se adecúe a la edad de los mismos.
+- Ingresos Anuales - Edad, con estos grupos podemosidentificar los compradores según sus ingresos y edad, pudiendo así realizar campañas de marketing para atraer a los grupos que más ganan por ejemplo brindando sorteos donde el premio se adecúe a la edad de los mismos.
      
 Posteriormente realizamos la clusterización variando el parámetro k (cantidad de clusters) para visualizar cual es la segmentación que nos sirve para solucionar el problema. Seguramente para cada uno de los diferentes grupos que decidimos segmentar tendremos una cantidad de clusters diferente, e incluso podría suceder que no existe una cantidad perfecta de clusters sino que podremos tener en la vista gráfica algunos puntos de colores que estan mezclados con otros.
 
