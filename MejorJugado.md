@@ -1,3 +1,5 @@
+[< Inicio](/index.md)
+
 # Mejor jugador del partido
 
 A partir de los datos del mundial 2018 se busca armar un arbol de decisión del equipo que tuvo al mejor jugador del partido. [Archivo](https://drive.google.com/file/d/1h2CfKcx9kMQWAS5uhjf4RAO04j-NBjVy/view?usp=sharing)
