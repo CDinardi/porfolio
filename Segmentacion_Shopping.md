@@ -1,4 +1,4 @@
-[<Back](/index.md)
+[< Back](/index.md)
 
 # Segmentación de clientes de centro comercial.
 
