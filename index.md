@@ -18,4 +18,8 @@ A travez de un set de 60.000 digitos realizados a mano alzada se entrena una red
 
 Utilizando regresión lineal se predicirá la eficiencia energética de los edificios a partir de la superficie, área de muros, techos, vidrios, entre otros, y se validará su performance entre el valor predicho y el valor real.
 
+## [Jugador del Partido](./MejorJugado.md).
+![image](https://user-images.githubusercontent.com/11593599/144563548-358e38ef-49cf-44da-b1a4-6381b6b20029.png)
+
+Utilizando un Decision Tree se busca identificar el equipo en el que se encuentra el Jugador del Partido de cada Partido jugado en la copa del mundo Fifa 2018.
 
