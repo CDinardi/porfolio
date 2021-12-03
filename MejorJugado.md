@@ -30,6 +30,11 @@ Matriz de Confusión
 
 ![image](https://user-images.githubusercontent.com/11593599/144561831-9cd67980-0006-428a-9157-21846473329c.png)
 
+Árbol de decisión
+
+![image](https://user-images.githubusercontent.com/11593599/144678002-912dd20b-8d5e-4d76-b5a6-a9df404e1d2b.png)
+
+
 ### Conclusiones
 
 Se creó un Árbol de decisión para el jugador del partido, dicho modelo tiene un accuracy de 73%.
