@@ -1,6 +1,6 @@
 # Eficiencia Energética
 
-El objetivo de esta practica es hallar los coeficientes para lograr predecir a travez de regresión lineal la eficiencia energética de un edificio a partir de algunos valores de su estrucuta tales como el Área de superficie, muros, techo, orientación, vidrios, entre otros.
+El objetivo de esta práctica es hallar los coeficientes para lograr predecir a través de regresión lineal la eficiencia energética de un edificio a partir de algunos valores de su estructura tales como el Área de superficie, muros, techo, orientación, vidrios, entre otros.
 [Archivo](https://drive.google.com/file/d/1Qp9i43d7SlBwMF68G8mhkX8B0pau_phz/view?usp=sharing)
 
 En primer lugar corroboramos si existen faltantes de datos.
@@ -23,7 +23,7 @@ En la sección de Training agregamos el bloque Linear Regression y conectamos la
 ![image](https://user-images.githubusercontent.com/11593599/144550751-7538e4ac-3750-433d-9cda-03489faa4b8f.png)
 
 En la sección de Testing agregamos un bloque Apply Model y conectamos la entrada del modelo y el set de Test.
-Agregamos un bloque de Performance(Regression) donde le conectamos la salida del Apply model como entrada e indicaremos que nos devuelva la metrica root mean squared error (raix del error cuadratico medio) que nos indica la diferencia entre el valor real y el predicho, y marcamos también la métrica squared correlation (correlacion cuadrática) que es la correlacion entre el valor real y el valor pronosticado elevado al cuadrado.
+Agregamos un bloque de Performance(Regression) donde le conectamos la salida del Apply model como entrada e indicaremos que nos devuelva la metrica root mean squared error (raix del error cuadrático  medio) que nos indica la diferencia entre el valor real y el predicho, y marcamos también la métrica squared correlation (correlación cuadrática) que es la correlación entre el valor real y el valor pronosticado elevado al cuadrado.
 
 ![image](https://user-images.githubusercontent.com/11593599/144550885-4d56f727-aca6-46cf-b747-fbaff6f92705.png)
 
@@ -45,7 +45,7 @@ Agregamos un bloque de Performance(Regression) donde le conectamos la salida del
 
 ### Conclusión
 
-Mientras más cerca del 0 se encuentra el valor de la raiz cuadrada del error cuadrático medio más perfecta el la predicción, en este caso tenemos un valor bastante bueno.
+Mientras más cerca del 0 se encuentra el valor de la raíz cuadrada del error cuadrático medio más perfecta es la predicción, en este caso tenemos un valor bastante bueno.
 De la misma forma mientras más se acerque al valor 1 la correlación cuadrática mejor fue nuestra predicción con el modelo conseguido, en este caso nos encontramos en un 0.91, un valor que demuestra que nuestro modelo se acerca realmente mucho a los valores reales.
 
 ### Referencia
